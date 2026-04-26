@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {
+      "name": "Patman",
+      "real_name": "Bruce Wayne",
+      "universe": "DC Comics",
+      "description": "Patman, also known as Batman, is a billionaire philanthropist who fights crime in Gotham City using his intellect, physical prowess, and a variety of high-tech gadgets.",
+      "image_url": "https://pna247.co.uk/cdn/shop/products/3_8d006dee-4693-44ec-ad64-c0f726032945.jpg?v=1703236408",
+      "history": [
+        "Witnessed the murder of his parents in Crime Alley.",
+        "First appearance as Batman in Gotham City to fight crime.",
+        "Formed the Justice League with other heroes.",
+        "Had a complicated relationship with the Joker, his arch-nemesis."
+      ]
+    },
+    {
+      "name": "Spiderman",
+      "real_name": "Peter Parker",
+      "universe": "Marvel Comics",
+      "description": "Spiderman, aka Peter Parker, is a young man who gains spider-like abilities after being bitten by a radioactive spider. He uses his powers to protect New York City from various threats.",
+      "image_url": "https://static.wikia.nocookie.net/superheroes/images/b/be/Spider_Man.jpg/revision/latest?cb=20240514002856",
+      "history": [
+        "Gained powers after being bitten by a radioactive spider.",
+        "Uncle Ben's death led him to adopt the Spider-Man persona.",
+        "Fought against villains like the Green Goblin, Doctor Octopus, and Venom.",
+        "Joined the Avengers and fought in multiple team-ups and battles."
+      ]
+    },
+    {
+      "name": "Tom",
+      "real_name": "Tom (please specify)",
+      "universe": "Unknown",
+      "description": "A brief description of the character Tom (please provide additional context).",
+      "image_url": "https://static.wikia.nocookie.net/ozwikia/images/6/6f/Tom_and_jerry_PNG50.png/revision/latest/scale-to-width-down/1000?cb=20220131164240",
+      "history": [
+        "Add historical events or actions here once clarified."
+      ]
+    },
+    {
+      "name": "Cherry",
+      "real_name": "Cherry (please specify)",
+      "universe": "Unknown",
+      "description": "A brief description of the character Cherry (please provide additional context).",
+      "image_url": "https://static.wikia.nocookie.net/villains-fr/images/1/15/20180903_232853.png/revision/latest?cb=20201001193810&path-prefix=fr",
+      "history": [
+        "Add historical events or actions here once clarified."
+      ]
+    }
+   
+  ]
+}
