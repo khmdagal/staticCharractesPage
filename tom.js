@@ -1,4 +1,4 @@
-const api = './data/data.json';
+const api = './data.json';
 const tomMainContainer = document.getElementById('mainContainer');
 
 async function fetchCharacters() {
