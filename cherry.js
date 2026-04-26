@@ -1,5 +1,5 @@
 
-const api = './data/data.json';
+const api = './data.json';
 const cherryMainContainer = document.getElementById('mainContainer');
 
 async function fetchCharacters() {
